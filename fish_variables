@@ -1,5 +1,13 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export ASDF_DATA_DIR:/home/nyuuya/\x2econfig/asdf
+SETUVAR --export EDITOR:/usr/bin/code
+SETUVAR --export INPUT_METHOD:fcitx5
+SETUVAR --export LANG:ja_JP\x2eUTF\x2d8
+SETUVAR --export --path PATH:/home/nyuuya/\x2elocal/bin\x1e/home/nyuuya/\x2elocal/bin\x1e/home/nyuuya/\x2elocal/share/nvim/mason/bin\x1e/home/nyuuya/\x2easdf/shims\x1e/usr/local/bin\x1e/usr/bin\x1e/bin\x1e/usr/local/sbin\x1e/usr/sbin\x1e/sbin
+SETUVAR --export QT_IM_MODULE:fcitx5
+SETUVAR --export SDL_IM_MODULE:fcitx5
+SETUVAR --export XMODIFIERS:\x40im\x3dfcitx5
 SETUVAR __fish_initialized:3800
 SETUVAR fish_color_autosuggestion:brblack
 SETUVAR fish_color_cancel:\x2dr
